@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CompilerFront_Demo:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CompilerFront_Demo_jar</output-path>
+    <root id="archive" name="CompilerFront_Demo.jar">
+      <element id="module-output" name="CompilerFront_Demo" />
+    </root>
+  </artifact>
+</component>
